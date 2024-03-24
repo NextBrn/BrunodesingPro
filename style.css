@@ -148,7 +148,7 @@ ul li a {
     text-decoration: none;
 
     /* isso é o efeitinho de transição entre os seletores */
-    transition: background s
+    transition: background 
 }
 /* pseudo selector */
 ul li a:hover {
